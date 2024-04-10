@@ -1,4 +1,8 @@
-# # # Meu primeiro portfólio desenvolvido com os cursos HTML e CSS pela plataforma Alura.
+## Meu primeiro portfólio 
+
+Desenvolvido com os cursos HTML e CSS pela plataforma Alura.
+
+Para ver 📲
 
 [Para ver click aqui](https://portfolio-alura-kohl-eta.vercel.app/)
 
