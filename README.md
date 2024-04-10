@@ -7,7 +7,7 @@ Para ver 📲
 [Para ver click aqui](https://portfolio-alura-kohl-eta.vercel.app/)
 
 <div>
-     <img src="octocat-git.png" align="right" width="30%" margin-top="20px">
+     <img src="octocat-21.png" align="right" width="30%" margin-top="20px">
 </div>
 
 <div>
